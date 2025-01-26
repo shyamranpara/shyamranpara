@@ -1,6 +1,12 @@
-## Hi there 👋
+- 👋 Hi, I’m shyam ranpara
+- 👀 I’m interested in React Node Tailwindcss backend and frontend developments
+- 🌱 I’m currently learning React, node, Gatsby and snowflake and Devops
+- 💞️ I’m looking to collaborate on react node projects
+- 📫 How to reach me shyamranpara@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
-- 🔭 I’m currently working on React and NodeJs development projects and magento2 projects
-- 🌱 I’m currently learning React and Nodejs
-- 👯 I’m looking to collaborate on React Projects
-- 📫 How to reach me: shyamranpara@gmail.com
+<!---
+shyamranpara1099/shyamranpara1099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
